@@ -41,6 +41,6 @@ javac *.java
 java Main
 ```
 
-## 🧑‍💻 Autor
+## 🧑‍💻 Creadores
 
-Miguel — Taller de Interfaces y Enums, Programación Orientada a Objetos.
+Miguel Angel Giraldo Bedoya y Juan Sebastian Gonzalez Quintana — Taller de Interfaces y Enums, Programación Orientada a Objetos.
