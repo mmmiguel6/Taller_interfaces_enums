@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Downloads/proyecto_interfaces_enums/proyecto/lab1_playlist/lab1_playlist.iml" filepath="$USER_HOME$/Downloads/proyecto_interfaces_enums/proyecto/lab1_playlist/lab1_playlist.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/proyecto_interfaces_enums/proyecto/lab2_pasarela/lab2_pasarela.iml" filepath="$USER_HOME$/Downloads/proyecto_interfaces_enums/proyecto/lab2_pasarela/lab2_pasarela.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/proyecto_interfaces_enums/proyecto/lab3_semaforo/lab3_semaforo.iml" filepath="$USER_HOME$/Downloads/proyecto_interfaces_enums/proyecto/lab3_semaforo/lab3_semaforo.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/proyecto_interfaces_enums/proyecto/lab4_cafeteria/lab4_cafeteria.iml" filepath="$USER_HOME$/Downloads/proyecto_interfaces_enums/proyecto/lab4_cafeteria/lab4_cafeteria.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/proyecto_interfaces_enums/proyecto/reto1_figuras/reto1_figuras.iml" filepath="$USER_HOME$/Downloads/proyecto_interfaces_enums/proyecto/reto1_figuras/reto1_figuras.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/proyecto_interfaces_enums/proyecto/reto2_baraja/reto2_baraja.iml" filepath="$USER_HOME$/Downloads/proyecto_interfaces_enums/proyecto/reto2_baraja/reto2_baraja.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/proyecto_interfaces_enums/proyecto/reto3_calculadora/reto3_calculadora.iml" filepath="$USER_HOME$/Downloads/proyecto_interfaces_enums/proyecto/reto3_calculadora/reto3_calculadora.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/proyecto_interfaces_enums/proyecto/reto4_promociones/reto4_promociones.iml" filepath="$USER_HOME$/Downloads/proyecto_interfaces_enums/proyecto/reto4_promociones/reto4_promociones.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/proyecto_interfaces_enums/proyecto/reto5_permisos/reto5_permisos.iml" filepath="$USER_HOME$/Downloads/proyecto_interfaces_enums/proyecto/reto5_permisos/reto5_permisos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taller_interfaces_enums.iml" filepath="$PROJECT_DIR$/taller_interfaces_enums.iml" />
+    </modules>
+  </component>
+</project>
